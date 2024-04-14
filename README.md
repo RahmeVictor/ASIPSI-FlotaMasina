@@ -1,5 +1,7 @@
 # Asipsi - Proiect flota masini
 
+Soluție software integrată pentru gestionarea eficientă a unei flote auto.
+
 ## Continut
 
 - [SRS - Documentul de specificare a cerințelor](SRS%20Rahme%20Victor.docx)
